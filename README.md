@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srinivas Yeleswarapu
+# Hi, I'm Srinivas Yeleswarapu
 
 **Senior Solutions Architect | Healthcare Automation | AI | RPA | Data Analytics**
 
